@@ -1,15 +1,14 @@
-### Hello World, Eu sou João  👋
+# Hello World, Eu sou João  👋
 
- <img align="right" alt="GIF" src="https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif" width="500" height="320" />
+## Estou em progresso para ser Desenvolvedor FullStack!!
+- 🏫 Atualmente cursando a **Driven Education** para me tornar Dev FulStack
+- 🏫 Atualmente cursando na UFMT(**Universidade Federal do Mato Grosso**) o curso de **Bacharelado em Ciências da Computação**.
+- 👨‍🎓 Formado em Manutenção e Suporte a Informatica.
+- 😄 Eu falo 2 linguas: **Português-BR** e **English** 
 
-
-## Eu sou Desenvolvedor FullStack em progresso!!
-- 🔭 Atualmente cursando a Driven Education para me tornar Dev FulStack e faculdade de Ciências da Computação.
-- 🌱 Atualmente aprendendo React.
-- 📚 Formado em Manutenção e Suporte a Informatica.
-- 😄 Eu falo 2 linguas (Português-BR, English) 
-- ⚡ Curiosidade: Já trabalhei como editor de dois sites do IFMT(Instituto Federal do Mato Grosso)
-
+## Algumas curiosidades:
+- ⚡ Já trabalhei como editor de dois sites do IFMT(**Instituto Federal do Mato Grosso**).
+- ⚡ Já desenvolvi pequenos jogos em **Lua** utilizando **LOVE2D**.
 
 ### Fale comigo:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -32,22 +31,18 @@
 
 <br />
 <br />
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
-
+  <img align="left" alt="joão's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoaoGMagri&show_icons=true&hide_border=true" />
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
-
+  <img align="left" alt="joo's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGMagri" />
 </details>
 
 
-[instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://www.linkedin.com/in/joaogmagri/

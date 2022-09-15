@@ -1,6 +1,6 @@
 ### Hello World, Eu sou João  👋
 
- <img align="right" alt="GIF" src="[https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true](https://i.pinimg.com/originals/a5/25/47/a5254720e6ea432e34c871a1a255c39d.gif)" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://tenor.com/search/matrix-code-gifs" width="500" height="320" />
 
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!

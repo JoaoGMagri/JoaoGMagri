@@ -2,12 +2,12 @@
 
 ## Estou em progresso para ser Desenvolvedor FullStack!!
 - 🏫 Atualmente cursando a **Driven Education** para me tornar Dev FulStack
-- 🏫 Atualmente cursando na UFMT(**Universidade Federal do Mato Grosso**) o curso de **Bacharelado em Ciências da Computação**.
+- 🏫 Atualmente cursando na **UFMT(Universidade Federal do Mato Grosso)** o curso de **Bacharelado em Ciências da Computação**.
 - 👨‍🎓 Formado em Manutenção e Suporte a Informatica.
-- 😄 Eu falo 2 linguas: **Português-BR** e **English** 
+- 😄 Eu falo 2 linguas: **Português-BR** e **English(Basico)** 
 
 ## Algumas curiosidades:
-- ⚡ Já trabalhei como editor de dois sites do IFMT(**Instituto Federal do Mato Grosso**).
+- ⚡ Já trabalhei como editor de dois sites do **IFMT(Instituto Federal do Mato Grosso)**.
 - ⚡ Já desenvolvi pequenos jogos em **Lua** utilizando **LOVE2D**.
 
 ### Fale comigo:
